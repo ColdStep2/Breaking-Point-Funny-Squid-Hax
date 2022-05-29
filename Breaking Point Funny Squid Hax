@@ -92,7 +92,7 @@ autofarm.TextColor3 = Color3.fromRGB(83, 255, 73)
 autofarm.TextSize = 29.000
 autofarm.MouseButton1Down:connect(function()
 	getgenv().AutoFarm = true
-loadstring(game:HttpGet('https://raw.githubusercontent.com/1201for/littlegui/main/Breaking-Point'))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/ColdStep2/Breaking-Point-Autofarm-Credits-Scrip/main/Breaking%20Point%20Autofarm%20Credits%20Scrip'))()
 end)
 
 antiafk.Name = "antiafk"
