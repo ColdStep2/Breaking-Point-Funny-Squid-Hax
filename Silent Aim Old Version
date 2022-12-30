@@ -1,3 +1,5 @@
+-- NOT MINE
+
 while wait() do
     for i,v in pairs(game.Players:GetPlayers()) do
         if v.Name ~= game.Players.LocalPlayer.Name then
